@@ -3,7 +3,7 @@
 
 
 
-### Installing and Usage
+### Installation and Usage
 
 ------------
 
